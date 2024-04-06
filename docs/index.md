@@ -4,7 +4,6 @@ title: Tim Statler | Technical Writer
 
 I'm Tim Statler, a technical writer with experience in software documentation, API documentation, and user guides. I've written documentation for web applications, REST APIs, and SDKs. I've also written user guides for software products and administrator guides for web applications.
 
-
 ## Portfolio
 
 The following are publicly available writing samples of my previous work. I have also written extensively for internal developer audiences at Cisco, Meta, and Google, which are mentioned here but are not publicly available.
@@ -13,7 +12,7 @@ The following are publicly available writing samples of my previous work. I have
 
 I was the sole technical writer for the Cisco Security Cloud platform, which provided a unified customer experience across all Cisco cybersecurity products. This included public documentation (linked below) and internal documentation for a corresponding service and API used by Cisco product teams to obtain product subscription changes from upstream marketplaces.
 
-[Security Cloud Control User Guide](https://www.cisco.com/c/en/us/td/docs/security/security_cloud/security_cloud_control/user_guide/b_security_cloud_control_user_guide.html){target=_blank}
+[Security Cloud Control User Guide](https://www.cisco.com/c/en/us/td/docs/security/cloud_control/sso-secure-cloud-control-app/security-cloud-control-overview.html){target=_blank}
 
 :   I wrote the user guide for Cisco Security Cloud Control, a web application where Cisco customers manage their product subscriptions, activate new product instances, and manage enterprises and users.
 
@@ -23,11 +22,11 @@ I was the sole technical writer for the Cisco Security Cloud platform, which pro
 
 ### Apcera compute platform
 
-I wrote and maintained documentation for a multi-cloud container management system that included package management, virtual networking, and container runtime. The documentation included API references, user guides, and tutorials for developers and administrators. The following links are to archived versions of the documentation, as the company was shut down after being acquired by Ericsson.
+I wrote and maintained documentation for a multi-cloud container management system that included package management, virtual networking, and container runtime. The documentation included API references based on a Swagger/OpenAPI specification that I created and maintained, user guides, and tutorials. The following links are to archived versions of the documentation, as the company no longer exists (acquired by Ericsson).
 
 [Apcera Platform API Reference](https://web.archive.org/web/20161007015409/http://docs.apcera.com/api/apcera-api-endpoints/){target=_blank}
 
-:   I created the initial platform API reference for the Apcera Platform from an OpenAPI specification that I curated and maintained. 
+:   I created the initial platform API reference for the Apcera Platform using an OpenAPI specification that I curated and maintained.
 
 [Apcera Platform API Recipes](https://web.archive.org/web/20160905180915/http://docs.apcera.com/api/api-tasks/){target=_blank}
   
@@ -47,7 +46,9 @@ I wrote and maintained documentation for a multi-cloud container management syst
 
 ### Internal developer documentation
 
-## Meta (Facebook) Developer Infrastructure
+: Cisco Security Business Group
+
+I created and maintained a Swagger/OpenAPI specification for an internal service (Security Cloud) used by Cisco security product teams to receive customer orders from upstream marketplaces. I also created the corresponding customer-facing documentation for [Security Cloud Control](https://www.cisco.com/c/en/us/td/docs/security/cloud_control/sso-secure-cloud-control-app/security-cloud-control-overview.html){target=_blank} that enabled customers to manage their Cisco product tenants and perform other administrative tasks.
 
 : [Meta DevInfra](https://engineering.fb.com/category/developer-tools/){target=_blank}
 
