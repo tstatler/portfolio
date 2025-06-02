@@ -52,4 +52,4 @@ I created and maintained a Swagger/OpenAPI specification for an internal service
 
 : [Meta DevInfra](https://engineering.fb.com/category/developer-tools/){target=_blank}
 
-I worked on an internal team at Meta that was responsible for documenting tools and processes used by Meta developers to manage all aspects of building, deploying, and maintaining the backend services used by Facebook, Instagram, and other properties. I researched and wrote documentation for an SDK that let developers quickly bootstrap new services in Python or C++, including package management, configure CI/CD, run tests, and deploy to production.
+---
