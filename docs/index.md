@@ -2,7 +2,7 @@
 title: Tim Statler | Technical Writer
 ---
 
-I'm Tim Statler, a technical writer with experience in software documentation, API documentation, and user guides. I've written documentation for web applications, REST APIs, and SDKs. I've also written user guides for software products and administrator guides for web applications.
+I'm experienced creating developer and and end-user documentation for a variety of platforms, SDKs, and developer environments.
 
 ## Portfolio
 
